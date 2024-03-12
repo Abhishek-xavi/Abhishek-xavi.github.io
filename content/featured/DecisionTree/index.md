@@ -9,4 +9,5 @@ tech:
 showInProjects: true
 ---
 
-A Decision Tree was built from scratch. It was evaluated against Scikit's Implementation and the hyper parameters were analysed to understand their effect on the model. Statistical Analysis of the hyper parameters were evaluated to compare the two models.
+- Developed a Decision Tree from scratch in python.
+- Evaluated its performance against scikit-learns implementation and reported on time and memory complexity, accuracy, recall, precision and F-1 score.

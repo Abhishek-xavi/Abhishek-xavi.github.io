@@ -10,4 +10,7 @@ tech:
 showInProjects: true
 ---
 
-To understand and analyse weather data and cluster them into meaningful groups. Data was modelled with K-Means and Gaussian Mixture models to understand data modelling with a distance based and probabilistics based approach. Hidden Markov model was explored and researched upon for future work.
+- Performed segmentation on the weather data of Switzerland Basil using Unsupervised Learning.
+- High Dimensional data was reduced using Principal component Analysis.
+- Data was modelled with K-Means and Gaussian Mixture models to compare distance based and probabilistics based approaches.
+- Meaningful clusters were formed and explained with evidence.
