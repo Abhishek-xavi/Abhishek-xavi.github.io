@@ -6,7 +6,6 @@ package-lock.json
 
 # Build directory
 /public
-/content/featured/DecisionTree
 .DS_Store
 
 .vscode/
