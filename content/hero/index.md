@@ -1,9 +1,10 @@
 ---
 title: 'Hello, my name is'
 name: 'Abhishek Gupta'
-subtitle: 'Passionate about data and their underlying patterns.'
+subtitle: 'Passionate about data and formulating hypothesis.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a student at Lancaster University currently pursuing my Masters in Data Science.
-With a strong problem solving mindset and a curious mind to explore data, want to make some valuable contrbutions in the field of Machine Learning and leave my mark.
+I'm an experienced individual with a diverse background in development, consulting and project management.
+A self-motivated techie with strong communication and collaboration skills, which helps me enable optimal performance and results
+among peers and stakeholders.

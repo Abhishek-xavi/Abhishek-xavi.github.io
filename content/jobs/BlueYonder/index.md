@@ -8,17 +8,23 @@ range: 'June 2017 - July 2021'
 url: 'https://blueyonder.com'
 ---
 
-1. Data Solutions and Automation:
-   - Addressed data-related challenges within the customer database, utilizing SQL and Oracle.
-   - Developed an in-house automation tool called "Hygiea," resulting in a monthly reduction of 600 hours of manual efforts.
-   - Led the end-to-end development of Hygiea, gaining hands-on experience with Angular JS, C#, and HTML/CSS, and acquiring expertise in both front-end and back-end aspects of the project.
-2. Deployment Analyst and Project Management:
-   - Functioned as a deployment analyst for our Products services, demonstrating strong project management skills.
-   - Collaborated with internal teams and interacted with clients to plan and execute project implementations, ensuring successful delivery of the environment.
-3. Problem Management and Database Optimization:
-   - Spearheaded the problem management initiative, resolving performance-related database issues.
-   - Conducted Root Cause Analysis to identify and address underlying causes.
-   - Optimized SQL scripts, including stored procedures, functions, triggers, and database constraints such as stats gathering and table re-indexing.
-4. Training and Knowledge Sharing:
-   - Conducted training programs in Shanghai for consulting partners, delivering comprehensive sessions on product features.
-   - Organized and led webinars to educate both internal and external stakeholders on various product features and advancements.
+- Demonstrated effective leadership and collaborated closely with business and IT
+  stakeholders. The responsibility involved designing technical solution and achieving
+  business goals.
+- Developed an Interactive Dashboard for Data Visualization and Analysis of 100+ ETL
+  pipelines, empowering advanced analytics and identifying data failures. This Reduced
+  service incidents by 20% resulting in $500K savings. This was presented to retail team,
+  product management, and leadership teams with great appreciation.
+- Spearheaded deployment of category management solution for $30B revenue customer.
+  The responsibility involved collaboration with cross-functional teams, sprint planning,
+  testing, and deploying solutions on cloud.
+- Led problem management drive reducing incidents by 30%. This involved leveraging SQL
+  profiling and query plan executions to solve big data issues in MySQL and Oracle DB.
+- Responsible for data engineering and automate Extraction, Transformation and Load
+  pipelines using SQL through the development and optimization of command line tools,
+  ensuring data quality and data security.
+- Exhibited strong presentation abilities through delivering 10+ training sessions on
+  proprietary solutions to overseas partners in China and India. Clearly communicated
+  complicated solutions to all levels within a business.
+- Mentored internal team members on software engineering principles, cloud infrastructure,
+  corporate protocols, and client meetings.
